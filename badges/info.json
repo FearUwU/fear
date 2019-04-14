@@ -1,0 +1,30 @@
+{
+    "author" : [
+        "TrustyJAID, adapted by Fear"
+    ],
+    "bot_version" : [
+        3,
+        0,
+        0
+    ],
+    "description" : "Create a Chillbar profile picture badge! Works with gif avatars too.",
+    "disabled" : false,
+    "hidden" : false,
+    "install_msg" : "Many parts of the code of this cog are messy or unused alltogether due to it being a lazy adaptation of another cog. But hey, it works!",
+    "min_python_version" : [
+        3,
+        6,
+        2
+    ],
+    "name" : "Badges",
+    "permissions" : [
+        "attach_files"
+    ],
+    "required_cogs" : [],
+    "requirements" : [
+        "pillow"
+    ],
+    "short" : "Create your own profile picture badge!",
+    "tags" : [],
+    "type" : "COG"
+}
